@@ -14,8 +14,9 @@ Download the latest version of the boszikoszt_app mobile application:
 ### Installation Instructions
 
 1. Download the APK file by clicking the download button above
-2. On your Android device, open the downloaded APK file
-3. If prompted, allow installation from this source (Settings → Install unknown apps)
-4. Follow the on-screen instructions to complete the installation
+2. Open the downloaded APK file on your Android device
+3. If prompted, allow your browser or file manager to install apps
+   - The system will guide you to grant this permission if needed
+4. Tap "Install" and follow the on-screen instructions
 
-**Note:** For Android 8.0 and above, you'll need to grant permission for your browser or file manager to install apps.
+**Note:** For security, Android requires you to explicitly allow app installation from sources other than the Play Store. This permission is granted per-app (browser, file manager, etc.) and can be revoked at any time.
